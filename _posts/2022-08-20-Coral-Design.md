@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "Coral Design"
-date:   2022-08-19 11:51:07 +1000
+date:   2022-08-20 11:51:07 +1000
 categories: Idea
 ---
+
+# The Process
 In my P5 Sketch there is an element where the fish swims from one row of corals to the next row of corals. 
 
 ![coralexample](/etc/images/coralexample.PNG)
