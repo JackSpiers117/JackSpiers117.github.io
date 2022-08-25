@@ -21,13 +21,13 @@
 title: Jack Spiers
 email: s3850917@student.rmit.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  WOW! What a cool blog site this is! The guy who runs this must be
+  super awesome and talented, definitely recommend checking out
+  some of his blogs! ~me
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://jackspiers117.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: 
+github_username:  JackSpiers117
 
 # Build settings
 theme: minima
