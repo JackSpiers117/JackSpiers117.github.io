@@ -1,18 +1,16 @@
 ---
 layout: page
-title: About
+title: About the coolest dude ever
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Howdy! I am Jack Spiers Future Creative Coding extraordinaire!
+Here you'll find my epic Blogposts about some fascinating ideas I explore
+to better increase my skills with coding creatively in html, js and P5js. As well as just overall ideas and concepts I found interesting to share.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I hope some of these blogposts prove an interesting read for yourself, and
+if you wish to contact me you can feel free to do so on either of my two emails.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Professional: jack.spiers00@gmail.com
 
-
-[jekyll-organization]: https://github.com/jekyll
+Student: s3850917@student.rmit.edu.au
