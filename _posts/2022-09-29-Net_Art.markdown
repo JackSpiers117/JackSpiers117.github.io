@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Net_Art"
+date:   2022-09-29 9:36pm +1000
+categories: Design
+---
+
+
+# Inspiration
+
+I wanted to make this Net Art specifically about the ridiculous old and new parts of the internet that used to make a big part of it's popularity. As such I worked on including elements of the 3 big parts of old and new, the scam ads, the NFT craze and the old illiterate internet humor.
+
+# Result
+
+![NETARTResult](/etc/images/NETARTResult.PNG)
+
+
