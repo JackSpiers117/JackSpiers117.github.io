@@ -2,7 +2,7 @@
 layout: post
 title:  "Tank Game"
 date:   2022-10-28 6:10pm +1000
-categories: Design
+categories: c# code
 ---
 # The Inspiration
 Powder Game was a big inspiration for this project, a game that utilises the WASD and arrow key controls for the player characters, this game was what inspired the idea behind the tank game using WASD and Arrow Keys controls.
