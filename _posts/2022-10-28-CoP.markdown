@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Community Of Practice: Home"
+date:   2022-10-28 9:22pm +1000
+categories: Development
+---
+# The Inspiration
+It was according to the assignment to take the community of practice within our creative coding class, and then build on that in the context of an at home community of practice
+
+---
+
+# The choice
+
+The home was chosen as it is the place where my brother and I play our games, it is where my own community of practice enjoy relaxing and playing multiplayer games.
+
+# The build
+
+A tank game was the thought process of a multiplayer game to build for my CoP, it combined the skills of building games in the creative coding class with translating that to playable games within the community of practice.
+
+# The Result
+
+The game was made successfully, me and my brother played a few rounds and generally enjoyed the ability to play a single screen multiplayer game using only a single keyboard.
