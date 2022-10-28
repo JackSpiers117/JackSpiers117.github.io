@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Tank Game"
+date:   2022-10-28 6:10pm +1000
+categories: Design
+---
+# The Inspiration
+Powder Game was a big inspiration for this project, a game that utilises the WASD and arrow key controls for the player characters, this game was what inspired the idea behind the tank game using WASD and Arrow Keys controls.
+
+---
+
+# Design
+
+I designed a simple tank model in Adobe Illustrator, with a green body then I adjusted the body to a red as an opponent tank model.
+
+![tankmodel](/etc/images/tankmodel.PNG)
+
+# The Code
+
+I built out the functions and if statements to command the tank to move using yaw rotate variables and surge moving forward and backward variables. Then I worked on the projectile script, where I built the movement the projectile would take, then I created the bullet script to deal damage and destroy itself upon hitting walls.
+
+![samplecode](/etc/images/samplecode.PNG)
+
+# The Result
+
+It resulted in a tank video game that I could invite a friend or family over to try out and battle it out. Each character had 3 health and the first to fire and hit the enemy 3 times would win.
